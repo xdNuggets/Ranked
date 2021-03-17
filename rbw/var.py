@@ -1,4 +1,4 @@
-token = "ODE1OTQ2NjkwODQxMjgwNTYy.YDzzkg.NIdZiX6TNCZFJ5Xpik7MLt0-kZI"
+token = "no"
 
 prefix = "="
 

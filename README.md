@@ -7,3 +7,8 @@ I made Ranked for a server called Competitive Cracked Bedwars, and am getting pa
 
 Commands can be seen using =help
 This repo probably won't be updated
+
+People who helped:
+GozZzer
+Mad
+Roie

@@ -9,6 +9,6 @@ Commands can be seen using =help
 This repo probably won't be updated
 
 People who helped:
-GozZzer
-Mad
+GozZzer,
+Mad,
 Roie
